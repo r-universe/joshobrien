@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "exiftoolr"]
+	path = exiftoolr
+	url = https://github.com/joshobrien/exiftoolr
+	shallow = true
+	registered = true
+[submodule "gdalUtilities"]
+	path = gdalUtilities
+	url = https://github.com/joshobrien/gdalutilities
+	shallow = true
+	registered = true
+[submodule "rasterDT"]
+	path = rasterDT
+	url = https://github.com/joshobrien/rasterdt
+	shallow = true
+	registered = true
