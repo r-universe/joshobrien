@@ -1,14 +1,14 @@
 [
   {
-    "package": "exiftoolr",
-    "oncran": true
-  },
-  {
     "package": "gdalUtilities",
     "oncran": true
   },
   {
     "package": "rasterDT",
+    "oncran": true
+  },
+  {
+    "package": "exiftoolr",
     "oncran": true
   }
 ]
